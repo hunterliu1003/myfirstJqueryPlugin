@@ -1,2 +1,2 @@
 # slideshow
-jQuery 練習。
+jQuery plugin 練習。
